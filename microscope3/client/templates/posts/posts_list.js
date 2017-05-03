@@ -1,17 +1,17 @@
-var postsImages = [
+var ImagesItem = [
   {
     title: 'Camara de fotos',
-    url: 'https://lh6.googleusercontent.com/ytAFTnLCY9TcUNEbmedxJ8kknaiIOR0uQ78TK6z4S8wS5sywR2he7IFNAuZYuEXvD-OrONp51C2qSVY=w1319-h604'
+    url: 'https://lh5.googleusercontent.com/41yJqF7-MWOV0G7WDtE7cE_ZWTCrXTO3D13awACdoheUMpk8BzjsUPD0mSaybB0sBWdJfSK86Wh_LG4=w1319-h654'
   },
   {
     title: 'KTM EXC 450cc ',
-    url: 'https://lh6.googleusercontent.com/bdiePZtjnll0L8YA4x5Vo0Gm-gvjTgfFtgVHdZvzPTDx1SXAis-b1lPjOKsXRyYhmMmgSJRXhywvj5E=w1319-h604'
+    url: 'https://lh4.googleusercontent.com/lHnpspQj9ZWqPi8GD6mxU4xf8U81XBF16SVPJ7JFwR05Ax97SlsWIkTEXmLzKVoYEAa9a4eBlPIsLtU=w1319-h654'
   },
   {
     title: 'Yamaha YZ 450cc',
-    url: 'https://lh3.googleusercontent.com/pwMlXnvF2ziIscVC4pI7PPtmFPVeLgY0LcOlSTbsGrgeKsHlmKAdQxbNuTRKbwL_aRQM9yUTudPPch0=w1319-h604'
+    url: 'https://lh4.googleusercontent.com/-aN6vWREDH86T48mour-f36_qkJgks3DPMZ6ASHDypIv1-5N1fB52fseXcyXxpk0CITYi3uxQPvHXp4=w1319-h654'
   }
 ];
 Template.postsList.helpers({
-  posts: postsImages
+  posts: ImagesItem
 });
