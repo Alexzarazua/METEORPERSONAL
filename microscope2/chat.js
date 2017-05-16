@@ -1,1 +1,0 @@
-chat = new Meteor.Collection("chat");
